@@ -1,2 +1,2 @@
 # SpringAppTest
-Simple APP  with SpringBoot
+create simple Spring Rest
